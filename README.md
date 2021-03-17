@@ -1,5 +1,5 @@
-# 3.AngularJS_Webpack_TypeScript
-AngularJS 1.x + Webpack + TypeScript Practice connected to an API
+# 3.AngularJS_Webpack_TypeScript_MongoDB
+AngularJS 1.x + Webpack + TypeScript Practice connected to an API connected with MongoDB
 
 Step 1: Installing dependencies
   
